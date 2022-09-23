@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Medi-Demirev/server-for-kindness-project/issues"
   },
-  "homepage": "https://github.com/Medi-Demirev/server-for-kindness-project#readme"
+  "homepage": "https://github.com/Medi-Demirev/server-for-kindness-project#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
